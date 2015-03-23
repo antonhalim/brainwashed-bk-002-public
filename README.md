@@ -4,15 +4,15 @@ languages: english
 resources: 1
 ---
 
-# Privilege and Tech
+# Brainwashed
 
 ## Contents
 
 |Contents          |
 |------------------|
 |Background        |
-|Video             |
 |PDF               |
+|Video             |
 |Instructions Pt. 1|
 |Instructions Pt. 2|
 |Resources         |
