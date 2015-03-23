@@ -26,7 +26,7 @@ The book is called [Linchpin: Are You Indispensable?](http://www.amazon.com/dp/1
 
 Keep reading:
 
-> Our motto, “not a little better”, reflects our belief that we want to embody greatness in everything we do. We want our students to be not just a little better, but massively better.
+> Our motto at Flatiron, “not a little better”, reflects our belief that we want to embody greatness in everything we do. We want our students to be not just a little better, but massively better.
 >
 > We’ve had 3 students present at RailsConf last year all having been programming for less than a year.  This year we have 3 students presenting at RubyConf.  Our students have spoken at conferences all around the world. We’ll soon have students working at every company in New York.  All of them at one point sat where you sit today, and challenged the resistance that holds us back from being remarkable.
 > 
