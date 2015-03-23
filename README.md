@@ -20,7 +20,7 @@ resources: 1
 ## Background 
 
 > I want to share a book with you that made a dramatic impact on my life when I read it 5 years ago. In a lot of ways, the Flatiron School has at its core many of the ideas presented in this book. 
-> Blake Johnson
+> -Blake Johnson
 
 The book is called [Linchpin: Are You Indispensable?](http://www.amazon.com/dp/1591844096) by [Seth Godin](https://twitter.com/thisissethsblog). You will be reading a PDF summary of the book and watching an optional video.
 
